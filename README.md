@@ -1,4 +1,5 @@
 # Hackintosh Monterey - Surface Laptop Go
+![F9A7865E-F29A-4AE6-9019-264C5DED0190_1_201_a](https://user-images.githubusercontent.com/81677769/232339651-46c7cb59-ecad-4936-902c-cf653f952a10.jpeg)
 
     Microsoft Surface Laptop Go Hardware
 
