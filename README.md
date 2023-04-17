@@ -25,3 +25,4 @@
     Not Working:
       Bluetooth
       AirDrop
+      Secure Boot
