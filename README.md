@@ -19,10 +19,9 @@
       Graphics Accel.
       Sound
       Touchscreen
-	  Bluetooth 4.0
       Screen brightness
+      Power Management
 
     Not Working:
-      Bluetooth 5.0
-	  AirDrop
-      Power Management
+      Bluetooth
+      AirDrop
